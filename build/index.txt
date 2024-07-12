@@ -1,0 +1,171 @@
+<!-- ============================================-->
+      <!-- <section> begin ============================-->
+      <section class="pt-8 pt-lg-0">
+        <div class="container">
+          <div class="d-flex flex-column-reverse flex-lg-row">
+            <div class="col-lg-6">
+              <h1 class="fs-lg-4 fs-md-3 fs-xl-5 mb-5">We connect our customers with the best, and help them keep up-and stay open.</h1>
+              <ul class="list-unstyled">
+                <li class="fs-2 shadow-sm offer-list-item"><i class="fa-solid fa-leaf fs-lg-4 fs-3"></i><span>We connect our customers with the best.</span></li>
+                <li class="fs-2 shadow-sm offer-list-item"><i class="fa-solid fa-eye fs-lg-4 fs-3"></i><span>Advisor success customer launch party.</span></li>
+                <li class="fs-2 shadow-sm offer-list-item"><i class="fa-solid fa-sun fs-lg-4 fs-3"></i><span>Business-to-consumer long tail.</span></li>
+              </ul>
+            </div>
+            <div class="col-lg-6 text-center text-lg-end"><img class="img-fluid" src="assets/img/offer/2.png" alt="" /></div>
+          </div>
+        </div><!-- end of .container-->
+      </section><!-- <section> close ============================-->
+      <!-- ============================================-->
+
+
+      <!-- ============================================-->
+      <!-- <section> begin ============================-->
+      <section>
+        <div class="container"><img class="img-fluid" src="assets/img/offer/3.png" alt="" />
+          <div class="row mt-5 align-items-center">
+            <div class="col-md-6">
+              <h2 class="fs-md-4 fs-3 pt-3">We connect our customers with the best, and help them keep up-and stay open.</h2>
+            </div>
+            <div class="col-md-6">
+              <div class="accordion accordion-flush" id="accordionFlushExample">
+                <div class="accordion-item"></div>
+                <h2 class="accordion-header border-bottom" id="srgdgfdgdgg45"><button class="accordion-button collapsed text-black" type="button" data-bs-toggle="collapse" data-bs-target="#srgdgfdgdgg45tyuu" aria-expanded="false" aria-controls="srgdgfdgdgg45"><span class="fs-1 pe-3">We connect our customers with the best?</span></button></h2>
+                <div class="accordion-collapse collapse" aria-labelledby="srgdgfdgdgg45" data-bs-parent="#accordionFlushExample" id="srgdgfdgdgg45tyuu">
+                  <div class="accordion-body">
+                    <p class="mb-0">Placeholder content for this accordion, which is intended to demonstrate the accordion-flush class. This is the first item's accordion body.</p>
+                  </div>
+                </div>
+                <div class="accordion-item"></div>
+                <h2 class="accordion-header border-bottom" id="sxvdgrfhfh276"><button class="accordion-button collapsed text-black" type="button" data-bs-toggle="collapse" data-bs-target="#srgdgfdgdgg45tyuu5ghj" aria-expanded="false" aria-controls="sxvdgrfhfh276"><span class="fs-1 pe-3">Android research &amp; development rockstar? </span></button></h2>
+                <div class="accordion-collapse collapse" aria-labelledby="sxvdgrfhfh276" data-bs-parent="#accordionFlushExample" id="srgdgfdgdgg45tyuu5ghj">
+                  <div class="accordion-body">
+                    <p class="mb-0">Placeholder content for this accordion, which is intended to demonstrate the accordion-flush class. This is the first item's accordion body.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div><!-- end of .container-->
+      </section><!-- <section> close ============================-->
+      <!-- ============================================-->
+
+
+
+      <!-- ============================================-->
+      <!-- <section> begin ============================-->
+      <section class="pb-0">
+        <div class="container">
+          <p class="text-center text-gray fs-1">Our Blog</p>
+          <h2 class="mx-auto text-center fs-lg-6 fs-md-5 w-lg-75">Value proposition accelerator product management venture</h2>
+          <div class="row mt-7 gx-xl-7">
+            <div class="col-md-4 text-center text-md-start h-auto mb-5">
+              <div class="d-flex justify-content-between flex-column h-100"><a href="#"><img class="w-75 w-md-100 rounded-2" src="assets/img/blog/1.png" alt="" /></a>
+                <div class="d-flex align-items-center justify-content-center justify-content-md-start gap-2 mt-3"><a href="#">
+                    <p class="fw-bold mb-0 text-black">Category</p>
+                  </a>
+                  <p class="mb-0">November 22, 2021</p>
+                </div><a href="#">
+                  <h5 class="mt-1 mb-3 fs-0 fs-md-1">Pitch termsheet backing validation focus release.</h5>
+                </a>
+                <div class="d-flex align-items-center justify-content-center justify-content-md-start gap-3"><img class="img-fluid" src="assets/img/blog/profile1.png" alt="" /><a href="#">
+                    <p class="mb-0 text-gray">Chandler Bing</p>
+                  </a></div>
+              </div>
+            </div>
+            <div class="col-md-4 text-center text-md-start h-auto mb-5">
+              <div class="d-flex justify-content-between flex-column h-100"><a href="#"><img class="w-75 w-md-100 rounded-2" src="assets/img/blog/2.png" alt="" /></a>
+                <div class="d-flex align-items-center justify-content-center justify-content-md-start gap-2 mt-3"><a href="#">
+                    <p class="fw-bold mb-0 text-black">Category</p>
+                  </a>
+                  <p class="mb-0">November 22, 2021</p>
+                </div><a href="#">
+                  <h5 class="mt-1 mb-3 fs-0 fs-md-1">Seed round direct mailing non-disclosure agreement graphical user interface rockstar.</h5>
+                </a>
+                <div class="d-flex align-items-center justify-content-center justify-content-md-start gap-3"><img class="img-fluid" src="assets/img/blog/profile2.png" alt="" /><a href="#">
+                    <p class="mb-0 text-gray">Rachel Green</p>
+                  </a></div>
+              </div>
+            </div>
+            <div class="col-md-4 text-center text-md-start h-auto mb-5">
+              <div class="d-flex justify-content-between flex-column h-100"><a href="#"><img class="w-75 w-md-100 rounded-2" src="assets/img/blog/3.png" alt="" /></a>
+                <div class="d-flex align-items-center justify-content-center justify-content-md-start gap-2 mt-3"><a href="#">
+                    <p class="fw-bold mb-0 text-black">Category</p>
+                  </a>
+                  <p class="mb-0">November 22, 2021</p>
+                </div><a href="#">
+                  <h5 class="mt-1 mb-3 fs-0 fs-md-1">Beta prototype sales iPad gen-z marketing network effects value proposition</h5>
+                </a>
+                <div class="d-flex align-items-center justify-content-center justify-content-md-start gap-3"><img class="img-fluid" src="assets/img/blog/profile3.png" alt="" /><a href="#">
+                    <p class="mb-0 text-gray">Monica Geller</p>
+                  </a></div>
+              </div>
+            </div>
+          </div>
+          <div class="text-center mb-3"><button class="btn btn-outline-dark">Load More</button></div>
+        </div><!-- end of .container-->
+      </section><!-- <section> close ============================-->
+      <!-- ============================================-->
+
+    </main><!-- ===============================================-->
+    <!--    End of Main Content-->
+    <!-- ===============================================-->
+
+
+
+    <!-- ============================================-->
+    <!-- <section> begin ============================-->
+    <section>
+      <div class="container bg-dark overflow-hidden rounded-1">
+        <div class="bg-holder" style="background-image:url(assets/img/promo/promo-bg.png);"></div>
+        <!--/.bg-holder-->
+        <div class="px-5 py-7 position-relative">
+          <h1 class="text-center w-lg-75 mx-auto fs-lg-6 fs-md-4 fs-3 text-white">An enterprise template to ramp up your company website</h1>
+          <div class="row justify-content-center mt-5">
+            <div class="col-auto w-100 w-lg-50"><input class="form-control mb-2 border-light fs-1" type="email" placeholder="Your email address" /></div>
+            <div class="col-auto mt-2 mt-lg-0"><button class="btn btn-success text-dark fs-1">Start now</button></div>
+          </div>
+        </div>
+      </div><!-- end of .container-->
+    </section><!-- <section> close ============================-->
+    <!-- ============================================-->
+
+
+
+    <!-- ============================================-->
+    <!-- <section> begin ============================-->
+    <section class="pt-0">
+      <div class="container">
+        <div class="row justify-content-between">
+          <div class="col-lg-6 col-sm-12"><a href="index.html"><img class="img-fluid mt-5 mb-4" src="assets/img/black-logo.png" alt="" /></a>
+            <p class="w-lg-75 text-gray">Social media validation business model canvas graphical user interface launch party creative facebook iPad twitter.</p>
+          </div>
+          <div class="col-lg-2 col-sm-4">
+            <h3 class="fw-bold fs-1 mt-5 mb-4">Landings</h3>
+            <ul class="list-unstyled">
+              <li class="my-3 col-md-4"><a href="#">Home</a></li>
+              <li class="my-3"><a href="#">Products</a></li>
+              <li class="my-3"><a href="#">Services</a></li>
+            </ul>
+          </div>
+          <div class="col-lg-2 col-sm-4">
+            <h3 class="fw-bold fs-1 mt-5 mb-4">Company</h3>
+            <ul class="list-unstyled">
+              <li class="my-3"><a href="#">Home</a></li>
+              <li class="my-3"><a href="#">Careers</a><span class="py-1 px-2 rounded-2 bg-success fw-bold text-dark ms-2">Hiring!</span></li>
+              <li class="my-3"><a href="#">Services</a></li>
+            </ul>
+          </div>
+          <div class="col-lg-2 col-sm-4">
+            <h3 class="fw-bold fs-1 mt-5 mb-4">Resources</h3>
+            <ul class="list-unstyled">
+              <li class="mb-3"><a href="#">Home</a></li>
+              <li class="mb-3"><a href="#">Products</a></li>
+              <li class="mb-3"><a href="#">Services</a></li>
+            </ul>
+          </div>
+        </div>
+        <p class="text-gray">All rights reserved.</p>
+      </div><!-- end of .container-->
+    </section><!-- <section> close ============================-->
+    <!-- ============================================-->
+

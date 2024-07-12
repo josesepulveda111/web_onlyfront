@@ -1,0 +1,60 @@
+ul.dropdown-menu {
+    background: #fff;
+    border-radius: 5%;
+}
+/* .bg-dark video {
+    width: 1449px;
+    height: 668px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+    margin-top: 0px;     
+} */
+
+.imagen video {
+    width: 500px;
+}
+.foti{
+    width: 1400px;
+}
+#facebook-icon{
+    font-size: 50px;
+    color: blue;
+}
+#instagram-icon{
+    font-size: 50px;
+    color: #833AB4;
+}
+#imagen-problematica{
+    border-radius: 10px;
+}
+#img-quehacemos{
+    border-radius: 10px;
+    width: 150px;
+}
+#banner-MXN{
+    border-radius: 10px;
+    width: 2000px;
+}
+#video-nacional{
+    width: 600px;
+    height: 400px;
+}
+.social-links a{
+    display: inline-block;
+    min-height: 40px;
+    width: 40px;
+    justify-content: center;
+    background-color: #417180f1;
+    margin: 0 10px 10px 0;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    color: #ffffff;
+    transition: all .5s ease;
+}
+.social-links a:hover{
+    background-color: #00C3FF;
+}
+
