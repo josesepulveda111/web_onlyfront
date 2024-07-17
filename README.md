@@ -1,8 +1,18 @@
-## fotogency, a theme by ThemeWagon team.
+### Proyecto solo Frontend (TODO POR UN EQUIPO)
 
----
+- Es una pagina web informativa para un proyecto de un grupo de Multimedia del SENA de pedregal, para las barras de los equipos Antioqueños
 
-Thank you for using Fotogency See the "public" folder, you will find everything ready to use there. If you want to use the gulp based workflow, cd to this directory in your terminal and run this command: npm i && gulp
-Get the figma design file here:
+## Instalacion y utilizacion
+- Se debe instalar un editor de codigo (Visual Studio Code) recomendado.
+- Deberá descargar el Framework de Bootstrap para los estilos css.
 
-<!-- [https://www.figma.com/community/file/iVtJJapAlfDQJLcDedSwMm] -->
+
+
+#### Despegar el proyecto
+
+Se deberá de abrir la primera carpeta "Build" y abrir el index.html de esa carpeta para poder visualizar la pagina web.
+
+    TODOPORUNEQUIPO/BUILD/INDEX.HTML
+
+
+[![bootstrap-icons.png](https://i.postimg.cc/XJfwXsB3/bootstrap-icons.png)](https://postimg.cc/2b5qKFxX)
